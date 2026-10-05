@@ -1,3 +1,3 @@
 #!/bin/bash
-echo 5
+echo FIVE
 bash count6.sh
