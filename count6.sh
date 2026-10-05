@@ -1,3 +1,3 @@
 #!/bin/bash
-echo 6
+echo SIX
 bash count7.sh
