@@ -1,3 +1,3 @@
 #!/bin/bash
-echo TWO
+echo TWO(2)
 bash count3.sh
